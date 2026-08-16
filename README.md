@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevMerera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [1410-html-entity-parser](https://github.com/DevMerera/leetcode-solutions/tree/master/1410-html-entity-parser) |
 | [1768-merge-strings-alternately](https://github.com/DevMerera/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevMerera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [1410-html-entity-parser](https://github.com/DevMerera/leetcode-solutions/tree/master/1410-html-entity-parser) |
 <!---LeetCode Topics End-->

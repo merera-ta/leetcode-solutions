@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DevMerera/leetcode-solutions/tree/master/0001-two-sum) |
 | [1410-html-entity-parser](https://github.com/DevMerera/leetcode-solutions/tree/master/1410-html-entity-parser) |
 ## Linked List
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DevMerera/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/DevMerera/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

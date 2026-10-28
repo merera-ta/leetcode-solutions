@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DevMerera/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DevMerera/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1410-html-entity-parser](https://github.com/DevMerera/leetcode-solutions/tree/master/1410-html-entity-parser) |
 | [1768-merge-strings-alternately](https://github.com/DevMerera/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevMerera/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DevMerera/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1410-html-entity-parser](https://github.com/DevMerera/leetcode-solutions/tree/master/1410-html-entity-parser) |
 ## Linked List
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevMerera/leetcode-solutions/tree/master/0001-two-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DevMerera/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
